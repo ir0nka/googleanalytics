@@ -12,7 +12,7 @@ Code
 --------------
 
 Link to the file
-
+https://github.com/ir0nka/googleanalytics/blob/master/from_ga.R
 
 Next steps
 --------------
